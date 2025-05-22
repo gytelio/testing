@@ -11,98 +11,119 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Siauliai",
-        "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
-        "link": "https://whc.unesco.org/en/list/515"
+      "title": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+      "description": "The monumental complex at Caserta, created by the Bourbon king Charles III in the mid-18th century to rival Versailles and the Royal Palace in Madrid, is exceptional for the way in which it brings together a magnificent palace with its park and gardens, as well as natural woodland, hunting lodges and a silk factory. It is an eloquent expression of the Enlightenment in material form, integrated into, rather than imposed on, its natural setting.",
+      "link": "https://whc.unesco.org/en/list/549"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [23.349530439568596, 55.81514049395521]
+      "type": "Point",
+      "coordinates": [21.18,55.75]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Abbey Church of Saint-Savin sur Gartempe",
-        "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
-        "link": "https://whc.unesco.org/en/list/230"
+      "title": "Vilnius Cathedral Square",
+      "description": "Construction of this palatine chapel, with its octagonal basilica and cupola, began c. 790–800 under the Emperor Charlemagne. Originally inspired by the churches of the Eastern part of the Holy Roman Empire, it was splendidly enlarged in the Middle Ages.",
+      "link": "https://whc.unesco.org/en/list/3"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.095338074697114, 54.89657898225501]
+      "type": "Point",
+      "coordinates": [25.287776, 54.686378]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Klaipeda",
-        "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe.",
-        "link": "https://whc.unesco.org/en/list/268"
+      "title": "Kaunas Castle",
+      "description": "In the district of Port Louis, lies the 1,640 m2 site where the modern indentured labour diaspora began. In 1834, the British Government selected the island of Mauritius to be the first site for what it called ‘the great experiment’ in the use of ‘free’ labour to replace slaves. Between 1834 and 1920, almost half a million indentured labourers arrived from India at Aapravasi Ghat to work in the sugar plantations of Mauritius, or to be transferred to Reunion Island, Australia, southern and eastern Africa or the Caribbean. The buildings of Aapravasi Ghat are among the earliest explicit manifestations of what was to become a global economic system and one of the greatest migrations in history.",
+      "link": "https://whc.unesco.org/en/list/1227"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [21.18674663003297, 55.75111637036435]
+      "type": "Point",
+      "coordinates": [23.881279, 54.902183]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Abu Mena",
-        "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria.",
-        "link": "https://whc.unesco.org/en/list/90"
+      "title": "Klaipėda Theatre Square",
+      "description": "Located inside the Arctic Circle in the central part of West Greenland, the property contains the remains of 4,200 years of human history. It is a cultural landscape which bears witness to its creators' hunting of land and sea animals, seasonal migrations and a rich and well-preserved tangible and intangible cultural heritage linked to climate, navigation and medicine. The features of the property include large winter houses and evidence of caribou hunting, as well as archaeological sites from Paleo-Inuit and Inuit cultures. The cultural landscape includes seven key localities, from Nipisat in the west to Aasivissuit, near the ice cap in the east. It bears testimony to the resilience of the human cultures of the region and their traditions of seasonal migration.",
+      "link": "https://whc.unesco.org/en/list/1557"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [21.34052693736373, 55.518270338429424]
+      "type": "Point",
+      "coordinates": [21.138038, 55.709845]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Acropolis, Athens",
-        "description": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization.",
-        "link": "https://whc.unesco.org/en/list/404"
+      "title": "Šiauliai Boulevard (Vilniaus gatvė)",
+      "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
+      "link": "https://whc.unesco.org/en/list/515"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [22.79308953479201, 55.32398839232425]
+      "type": "Point",
+      "coordinates": [23.315934, 55.933349]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Agave Landscape and Ancient Industrial Facilities of Tequila",
-        "description": "The 34,658 ha site is part of an expansive landscape of blue agave.",
-        "link": "https://whc.unesco.org/en/list/1209"
+      "title": "Druskininkai Aqua Park Entrance",
+      "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
+      "link": "https://whc.unesco.org/en/list/230"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [22.432261883201544, 55.929897109876315]
+      "type": "Point",
+      "coordinates": [23.985982, 54.015994]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Agra Fort",
-        "description": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra.",
-        "link": "https://whc.unesco.org/en/list/251"
+      "title": "Abbey of St Gall",
+      "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
+      "link": "https://whc.unesco.org/en/list/268"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.106872363018887, 55.29766073334675]
+      "type": "Point",
+      "coordinates": [
+      9.37778,
+      47.42333
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Agricultural Landscape of Southern Öland",
-        "description": "The southern part of the island of Öland in the Baltic Sea is dominated by a vast limestone plateau.",
-        "link": "https://whc.unesco.org/en/list/968"
+      "title": "Abu Mena",
+      "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
+      "link": "https://whc.unesco.org/en/list/90"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [25.0320714696611, 55.24495296555919]
+      "type": "Point",
+      "coordinates": [
+      29.66666667,
+      30.8358333333
+      ]
       }
-    }
+      },
+      {
+      "type": "Feature",
+      "properties": {
+      "title": "Acropolis, Athens",
+      "description": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization and form the greatest architectural and artistic complex bequeathed by Greek Antiquity to the world. In the second half of the fifth century bc, Athens, following the victory against the Persians and the establishment of democracy, took a leading position amongst the other city-states of the ancient world. In the age that followed, as thought and art flourished, an exceptional group of artists put into effect the ambitious plans of Athenian statesman Pericles and, under the inspired guidance of the sculptor Pheidias, transformed the rocky hill into a unique monument of thought and the arts. The most important monuments were built during that time: the Parthenon, built by Ictinus, the Erechtheon, the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike. ",
+      "link": "https://whc.unesco.org/en/list/404"
+      },
+      "geometry": {
+      "type": "Point",
+      "coordinates": [
+      23.72618,
+      37.97087
+      ]
+      }
+      }
   ]
 }
