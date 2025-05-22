@@ -1,0 +1,31 @@
+{
+  "maps":[
+     {
+        "name":{
+           "ar":"يونيسكو : قائمة التراث العالمي",
+           "de":"Unesco Weltkulturerbe",
+           "es":"Unesco : Lista de Patrimonio de la humanidad",
+           "fr":"Unesco : Liste du patrimoine mondial",
+           "he":"אונסק\"ו: רשימת אתרי מורשת עולמית",
+           "it":"Lista Patrimonio Mondiale dell'Umanità Unesco",
+           "ja":"ユネスコ世界遺産一覧",
+           "kaa":"YuNESKO: Dúnya miyrasları dizimi",
+           "lol":"Uwunezco: World Heritage List",
+           "pl":"Unesco : Lista dziedzictwa światowego",
+           "pt":"Unesco: Patrimônio Mundial",
+           "ru":"ЮНЕСКО: Список всемирного наследия",
+           "sv":"Unesco : Världsarvslista",
+           "tr":"Unesco : Dünya Mirası Listesi",
+           "zh":"联合国教科文组织：世界遗产名录",
+           "en": "Unesco : World Heritage List"
+        },
+        "description":{
+           "en":""
+        },
+        "author":"B3N4K",
+        "imageUrl":"https://images.unsplash.com/photo-1599833975787-5c143f373c30?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+        "url":"https://raw.githubusercontent.com/gytelio/testing/main/map-points-2.geojson",
+        "id":"unesco"
+     }
+  ]
+}
