@@ -8,114 +8,128 @@
       }
     },
    "features": [
-     {
-       "type": "Feature",
-       "properties": {
-         "title": "Siaule",
-         "description": "Siaule.",
-         "link": "https://whc.unesco.org/en/list/1207"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [23.370609, 55.85868]
-       }
-     },
-     {
-      "type": "Feature",
-      "properties": {
-        "title": "Riga",
-        "description": "riga.",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/IMG_20230903_105641.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [24.1, 56.954729]
-      }
-    },
     {
       "type": "Feature",
       "properties": {
-        "title": "Riga",
-        "description": "riga.",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/IMG_20230903_105641.jpg"
+      "title": "Abbey and Altenmünster of Lorsch",
+      "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
+      "link": "https://whc.unesco.org/en/list/515"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.1, 56.954729]
+      "type": "Point",
+      "coordinates": [
+      8.56858,
+      49.65369
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Riga",
-        "description": "riga.",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/IMG_20230903_105641.jpg"
+      "title": "Abbey Church of Saint-Savin sur Gartempe",
+      "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
+      "link": "https://whc.unesco.org/en/list/230"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.1, 56.954729]
+      "type": "Point",
+      "coordinates": [
+      0.86611,
+      46.56472
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Riga",
-        "description": "riga.",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/IMG_20230903_105641.jpg"
+      "title": "Abbey of St Gall",
+      "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
+      "link": "https://whc.unesco.org/en/list/268"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.1, 56.954729]
+      "type": "Point",
+      "coordinates": [
+      9.37778,
+      47.42333
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Riga",
-        "description": "riga.",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/IMG_20230903_105641.jpg"
+      "title": "Abu Mena",
+      "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
+      "link": "https://whc.unesco.org/en/list/90"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.1, 56.954729]
+      "type": "Point",
+      "coordinates": [
+      29.66666667,
+      30.8358333333
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Riga",
-        "description": "riga.",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/IMG_20230903_105641.jpg"
+      "title": "Acropolis, Athens",
+      "description": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization and form the greatest architectural and artistic complex bequeathed by Greek Antiquity to the world. In the second half of the fifth century bc, Athens, following the victory against the Persians and the establishment of democracy, took a leading position amongst the other city-states of the ancient world. In the age that followed, as thought and art flourished, an exceptional group of artists put into effect the ambitious plans of Athenian statesman Pericles and, under the inspired guidance of the sculptor Pheidias, transformed the rocky hill into a unique monument of thought and the arts. The most important monuments were built during that time: the Parthenon, built by Ictinus, the Erechtheon, the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike. ",
+      "link": "https://whc.unesco.org/en/list/404"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.1, 56.954729]
+      "type": "Point",
+      "coordinates": [
+      23.72618,
+      37.97087
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Riga",
-        "description": "riga.",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/IMG_20230903_105641.jpg"
+      "title": "Agave Landscape and Ancient Industrial Facilities of Tequila",
+      "description": "The 34,658 ha site, between the foothills of the Tequila Volcano and the deep valley of the Rio Grande River, is part of an expansive landscape of blue agave, shaped by the culture of the plant used since the 16th century to produce tequila spirit and for at least 2,000 years to make fermented drinks and cloth. Within the landscape are working distilleries reflecting the growth in the international consumption of tequila in the 19th and 20th centuries. Today, the agave culture is seen as part of national identity. The area encloses a living, working landscape of blue agave fields and the urban settlements of Tequila, Arenal, and Amatitan with large distilleries where the agave ‘pineapple' is fermented and distilled. The property is also a testimony to the Teuchitlan cultures which shaped the Tequila area from AD 200-900, notably through the creation of terraces for agriculture, housing, temples, ceremonial mounds and ball courts.",
+      "link": "https://whc.unesco.org/en/list/1209"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.1, 56.954729]
+      "type": "Point",
+      "coordinates": [
+      -103.7786111111,
+      20.8630555555
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Riga",
-        "description": "riga.",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/IMG_20230903_105641.jpg"
+      "title": "Agra Fort",
+      "description": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques.",
+      "link": "https://whc.unesco.org/en/list/251"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [24.1, 56.954729]
+      "type": "Point",
+      "coordinates": [
+      78.021528,
+      27.179806
+      ]
       }
-    }
+      },
+      {
+      "type": "Feature",
+      "properties": {
+      "title": "Agricultural Landscape of Southern Öland",
+      "description": "The southern part of the island of Öland in the Baltic Sea is dominated by a vast limestone plateau. Human beings have lived here for some five thousand years and adapted their way of life to the physical constraints of the island. As a consequence, the landscape is unique, with abundant evidence of continuous human settlement from prehistoric times to the present day.",
+      "link": "https://whc.unesco.org/en/list/968"
+      },
+      "geometry": {
+      "type": "Point",
+      "coordinates": [
+      16.48333,
+      56.325
+      ]
+      }
+      }
    ]
  }
+
+ 
  
