@@ -1,121 +1,108 @@
 {
-   "type": "FeatureCollection",
-   "name": "georss",
-   "crs": {
-      "type": "name",
-      "properties": {
+  "type": "FeatureCollection",
+  "name": "georss",
+  "crs": {
+    "type": "name",
+    "properties": {
       "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-      }
-    },
-   "features": [
+    }
+  },
+  "features": [
     {
       "type": "Feature",
       "properties": {
-      "title": "Siauliai",
-      "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
-      "link": "https://whc.unesco.org/en/list/515"
+        "title": "Siauliai",
+        "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
+        "link": "https://whc.unesco.org/en/list/515"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [55.81514049395521, 23.349530439568596]
+        "type": "Point",
+        "coordinates": [23.349530439568596, 55.81514049395521]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Abbey Church of Saint-Savin sur Gartempe",
-      "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
-      "link": "https://whc.unesco.org/en/list/230"
+        "title": "Abbey Church of Saint-Savin sur Gartempe",
+        "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
+        "link": "https://whc.unesco.org/en/list/230"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [54.89657898225501, 24.095338074697114]
+        "type": "Point",
+        "coordinates": [24.095338074697114, 54.89657898225501]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Klaipeda",
-      "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
-      "link": "https://whc.unesco.org/en/list/268"
+        "title": "Klaipeda",
+        "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe.",
+        "link": "https://whc.unesco.org/en/list/268"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [55.75111637036435, 21.18674663003297]
+        "type": "Point",
+        "coordinates": [21.18674663003297, 55.75111637036435]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Abu Mena",
-      "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
-      "link": "https://whc.unesco.org/en/list/90"
+        "title": "Abu Mena",
+        "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria.",
+        "link": "https://whc.unesco.org/en/list/90"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [
-        55.518270338429424, 21.34052693736373
-      ]
+        "type": "Point",
+        "coordinates": [21.34052693736373, 55.518270338429424]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Acropolis, Athens",
-      "description": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization and form the greatest architectural and artistic complex bequeathed by Greek Antiquity to the world. In the second half of the fifth century bc, Athens, following the victory against the Persians and the establishment of democracy, took a leading position amongst the other city-states of the ancient world. In the age that followed, as thought and art flourished, an exceptional group of artists put into effect the ambitious plans of Athenian statesman Pericles and, under the inspired guidance of the sculptor Pheidias, transformed the rocky hill into a unique monument of thought and the arts. The most important monuments were built during that time: the Parthenon, built by Ictinus, the Erechtheon, the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike. ",
-      "link": "https://whc.unesco.org/en/list/404"
+        "title": "Acropolis, Athens",
+        "description": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization.",
+        "link": "https://whc.unesco.org/en/list/404"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [
-        55.32398839232425, 22.79308953479201
-      ]
+        "type": "Point",
+        "coordinates": [22.79308953479201, 55.32398839232425]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Agave Landscape and Ancient Industrial Facilities of Tequila",
-      "description": "The 34,658 ha site, between the foothills of the Tequila Volcano and the deep valley of the Rio Grande River, is part of an expansive landscape of blue agave, shaped by the culture of the plant used since the 16th century to produce tequila spirit and for at least 2,000 years to make fermented drinks and cloth. Within the landscape are working distilleries reflecting the growth in the international consumption of tequila in the 19th and 20th centuries. Today, the agave culture is seen as part of national identity. The area encloses a living, working landscape of blue agave fields and the urban settlements of Tequila, Arenal, and Amatitan with large distilleries where the agave ‘pineapple' is fermented and distilled. The property is also a testimony to the Teuchitlan cultures which shaped the Tequila area from AD 200-900, notably through the creation of terraces for agriculture, housing, temples, ceremonial mounds and ball courts.",
-      "link": "https://whc.unesco.org/en/list/1209"
+        "title": "Agave Landscape and Ancient Industrial Facilities of Tequila",
+        "description": "The 34,658 ha site is part of an expansive landscape of blue agave.",
+        "link": "https://whc.unesco.org/en/list/1209"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [
-        55.929897109876315, 22.432261883201544
-      ]
+        "type": "Point",
+        "coordinates": [22.432261883201544, 55.929897109876315]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Agra Fort",
-      "description": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques.",
-      "link": "https://whc.unesco.org/en/list/251"
+        "title": "Agra Fort",
+        "description": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra.",
+        "link": "https://whc.unesco.org/en/list/251"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [
-        55.29766073334675, 24.106872363018887
-      ]
+        "type": "Point",
+        "coordinates": [24.106872363018887, 55.29766073334675]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Agricultural Landscape of Southern Öland",
-      "description": "The southern part of the island of Öland in the Baltic Sea is dominated by a vast limestone plateau. Human beings have lived here for some five thousand years and adapted their way of life to the physical constraints of the island. As a consequence, the landscape is unique, with abundant evidence of continuous human settlement from prehistoric times to the present day.",
-      "link": "https://whc.unesco.org/en/list/968"
+        "title": "Agricultural Landscape of Southern Öland",
+        "description": "The southern part of the island of Öland in the Baltic Sea is dominated by a vast limestone plateau.",
+        "link": "https://whc.unesco.org/en/list/968"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [
-        55.24495296555919, 25.0320714696611
-      ]
+        "type": "Point",
+        "coordinates": [25.0320714696611, 55.24495296555919]
       }
-      }
-   ]
- }
-
- 
- 
+    }
+  ]
+}
