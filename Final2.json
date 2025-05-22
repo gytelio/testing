@@ -27,5 +27,464 @@
         "url":"https://raw.githubusercontent.com/gytelio/testing/main/map-points-2.geojson",
         "id":"unesco"
      }
-  ]
+  ],
+   "areas":[
+      {
+         "name":{
+            "ar":"القارة",
+            "de":"Kontinent",
+            "es":"Continente",
+            "he":"יבשה",
+            "it":"Continente",
+            "ja":"コンチネンタル",
+            "kaa":"Kontinent",
+            "pl":"Kontynent",
+            "pt":"Continente",
+            "ru":"Континент",
+            "sv":"Kontinent",
+            "tr":"Kıta",
+            "zh":"大洲",
+            "en":"Continent"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham",
+         "imageUrl":"https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/continents.geojson",
+            "type":"polygon",
+            "pathKey":"continent"
+         },
+         "id":"continent"
+      },
+      {
+         "name":{
+            "ar":"منطقة فرنسا",
+            "de":"Region Frankreich",
+            "es":"Regiones de Francia",
+            "fr":"France Régions",
+            "he":"הלאום הצרפתי",
+            "it":"Regioni Francesi",
+            "ja":"フランス地域",
+            "kaa":"Frantsiya aymaǵı",
+            "pl":"Region Francji",
+            "pt":"Região Francesa",
+            "ru":"Французский регион",
+            "sv":"Franska regioner",
+            "tr":"Fransa Bölgesi",
+            "zh":"法国大区",
+            "en":"France Region"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham, gregoiredavid",
+         "imageUrl":"https://images.unsplash.com/photo-1588607327673-83b8f3791d6a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "bbox":[
+               -5.4517733,
+               41.2611155,
+               9.8282225,
+               51.3055721
+            ],
+            "urlArea":"https://raw.githubusercontent.com/gregoiredavid/france-geojson/master/regions-version-simplifiee.geojson",
+            "type":"nominatim",
+            "pathKey":"nom",
+            "nominatimResultPath":"address.state",
+            "nominatimQueryParams":{
+               "zoom":"5",
+               "addressdetails":"1",
+               "accept-language":"fr"
+            }
+         },
+         "id":"france-region"
+      },
+      {
+         "name":{
+            "ar":"مقاطعة فرنسا",
+            "de":"Regionen Frankreichs",
+            "es":"Departamentos de Francia",
+            "fr":"France Départements",
+            "he":"מחוזות צרפת",
+            "it":"Provincie Francesi",
+            "ja":"フランス 県",
+            "kaa":"Fransiya okrugi",
+            "pl":"Hrabstwo Francji",
+            "pt":"Condado Francês",
+            "ru":"Французский округ",
+            "sv":"Franska kommuner",
+            "tr":"Fransa",
+            "zh":"法国省区",
+            "en":"France County"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham, gregoiredavid",
+         "imageUrl":"https://images.unsplash.com/photo-1634745521698-3b8307f30543?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "bbox":[
+               -5.4517733,
+               41.2611155,
+               9.8282225,
+               51.3055721
+            ],
+            "urlArea":"https://raw.githubusercontent.com/gregoiredavid/france-geojson/master/departements-version-simplifiee.geojson",
+            "type":"nominatim",
+            "pathKey":"nom",
+            "nominatimResultPath":"address.county",
+            "nominatimQueryParams":{
+               "zoom":"8",
+               "addressdetails":"1",
+               "accept-language":"fr"
+            }
+         },
+         "id":"france-county"
+      },
+      {
+         "name":{
+            "ar":"الولايات المتحدة الأمريكية",
+            "de":"US-Staaten",
+            "es":"Estados de EEUU",
+            "fr":"États des États-Unis",
+            "he":"מדינות ארה\"ב",
+            "it":"Stati Uniti",
+            "ja":"アメリカ州",
+            "kaa":"AQSH shtatları",
+            "pl":"Stany Zjednoczone",
+            "pt":"Estados Americanos",
+            "ru":"Штаты США",
+            "sv":"USAs delstater",
+            "tr":"ABD Eyaletleri",
+            "zh":"美国州",
+            "en":"US States"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham",
+         "imageUrl":"https://images.unsplash.com/photo-1534706438758-534c634c4591?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "bbox":[
+               -171.79111060289117,
+               18.916190000000142,
+               -66.96466,
+               71.35776357694175
+            ],
+            "urlArea":"https://raw.githubusercontent.com/martynafford/natural-earth-geojson/master/110m/cultural/ne_110m_admin_1_states_provinces.json",
+            "type":"nominatim",
+            "pathKey":"name",
+            "nominatimResultPath":"address.state",
+            "nominatimQueryParams":{
+               "zoom":"5",
+               "addressdetails":"1",
+               "accept-language":"en"
+            }
+         },
+         "id":"usa-state"
+      },
+      {
+         "name":{
+            "ar":"محافظة تونس",
+            "de":"Tunesische Gouvernorate",
+            "es":"Governoratos de Tunisia",
+            "fr":"Tunisie Gouvernorat",
+            "he":"מחוזות טוניסיה",
+            "it":"Governatorato della Tunisia",
+            "ja":"チュニジアのガバナ",
+            "kaa":"Tunis gubernatorlıǵı",
+            "pl":"Gubernator Tunezji",
+            "pt":"Governo Geral da Tunísia",
+            "ru":"Тунисская провинция",
+            "sv":"Tunisiens guvernat",
+            "tr":"Tunus",
+            "zh":"突尼斯省",
+            "en":"Tunisia governorate"
+         },
+         "description":{
+            "en":""
+         },
+         "imageUrl":"https://images.unsplash.com/photo-1512136323137-f0c1cc25cb06?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+         "author":"BilelJegham",
+         "data":{
+            "bbox":[
+               30.229061,
+               37.7612052,
+               7.5219807,
+               11.8801133
+            ],
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/tunisiaGouvernorat.geojson",
+            "type":"nominatim",
+            "pathKey":"gouvernorat_fr",
+            "nominatimResultPath":"address.state",
+            "nominatimQueryParams":{
+               "zoom":"5",
+               "addressdetails":"1",
+               "accept-language":"fr"
+            }
+         },
+         "id":"tunisia-gouvenorate"
+      },
+      {
+         "name":{
+            "ar":"منطقة إيطاليا",
+            "de":"Region Italien",
+            "es":"Regiones de Italia",
+            "fr":"Région de l'Italie",
+            "he":"הלאום האיטלקי",
+            "it":"Regioni Italiane",
+            "ja":"イタリア地域",
+            "kaa":"Italiya aymaǵı",
+            "pl":"Region Włoch",
+            "pt":"Região Italiana",
+            "ru":"Итальянский регион",
+            "sv":"Italienska regioner",
+            "tr":"İtalya Bölgesi",
+            "zh":"意大利大区",
+            "en":"Italy Region"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham, openpolis",
+         "imageUrl":"https://images.unsplash.com/photo-1543656722-364c5456ac08?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "bbox":[
+               35.2889616,
+               47.0921462,
+               6.6272658,
+               18.7844746
+            ],
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/italy_regions.geojson",
+            "type":"nominatim",
+            "pathKey":"reg_name",
+            "nominatimResultPath":"address.state",
+            "nominatimQueryParams":{
+               "zoom":"5",
+               "addressdetails":"1",
+               "accept-language":"it"
+            }
+         },
+         "id":"italy-region"
+      },
+      {
+         "name":{
+            "ar":"مقاطعة إيطاليا",
+            "de":"Provinz Italien",
+            "es":"Provincias de Italia",
+            "fr":"Comté de l'Italie",
+            "he":"מחוזות איטליה",
+            "it":"Provincie Italiane",
+            "ja":"イタリア郡",
+            "kaa":"Italiya",
+            "pl":"Hrabstwo Włoch",
+            "pt":"Condado Italiano",
+            "ru":"Италия",
+            "sv":"Italienska kommuner",
+            "tr":"İtalya",
+            "zh":"意大利省",
+            "en":"Italy County"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham, openpolis",
+         "imageUrl":"https://images.unsplash.com/photo-1596627116752-94ec9536a1fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "bbox":[
+               35.2889616,
+               47.0921462,
+               6.6272658,
+               18.7844746
+            ],
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/italy_provinces.geojson",
+            "type":"nominatim",
+            "pathKey":"prov_name",
+            "nominatimResultPath":"address.county",
+            "nominatimQueryParams":{
+               "zoom":"8",
+               "addressdetails":"1",
+               "accept-language":"it"
+            }
+         },
+         "id":"italy-county"
+      },
+      {
+         "name":{
+            "ar":"الدول البرازيلية",
+            "de":"Brasilianische Bundesstaaten",
+            "es":"Estados de Brasil",
+            "fr":"États brésiliens",
+            "he":"מחוזות ברזיל",
+            "it":"Stati Del Brasile",
+            "ja":"ブラジル州",
+            "kaa":"Braziliyanıń shtatları",
+            "pl":"Stany Brazylii",
+            "pt":"Estados do Brasil",
+            "ru":"Штаты Бразилии",
+            "sv":"Brasilianska delstater",
+            "tr":"Brezilya Eyaletleri",
+            "zh":"巴西州",
+            "en":"Brazil States"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham, luizpedone",
+         "imageUrl":"https://images.unsplash.com/photo-1632184078944-b8a9cd828a57?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "bbox":[
+               -33.8689056,
+               5.2693306,
+               -73.9830625,
+               -28.6289646
+            ],
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/brazil_regions.geojson",
+            "type":"nominatim",
+            "pathKey":"ESTADO",
+            "nominatimResultPath":"address.state",
+            "nominatimQueryParams":{
+               "zoom":"5",
+               "addressdetails":"1",
+               "accept-language":"pt"
+            }
+         },
+         "id":"brazil-regio"
+      },
+      {
+         "name":{
+            "ar":"الدول المكسيكية",
+            "de":"Mexikanische Bundesstaaten",
+            "es":"Estados de México",
+            "fr":"États du Mexique",
+            "he":"מחוזות ברזיל",
+            "it":"Stati Del Messico",
+            "ja":"メキシコ州",
+            "kaa":"Meksikanıń shtatları",
+            "pl":"Stany Meksyku",
+            "pt":"Estados Mexicanos",
+            "ru":"Штаты Мексики",
+            "sv":"Mexikanska delstater",
+            "tr":"Meksika Eyaletleri",
+            "zh":"墨西哥州",
+            "en":"Mexico States"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham, angelnmara",
+         "imageUrl":"https://images.unsplash.com/photo-1583422790973-03d1901612dc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "bbox":[
+               -118.366,
+               14.5347,
+               -86.7237,
+               32.7182
+            ],
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/mexico_states.geojson",
+            "type":"nominatim",
+            "pathKey":"name",
+            "nominatimResultPath":"address.state",
+            "nominatimFallbackResultPath":"display_name",
+            "nominatimQueryParams":{
+               "zoom":"5",
+               "accept-language":"es"
+            }
+         },
+         "id":"mexico-state"
+      },
+      {
+         "name":{
+            "ar":"مقاطعة نانت، فرنسا",
+            "de":"Bezirk Nantes, Frankreich",
+            "es":"Distrito de Nantes, Francia",
+            "fr":"Quartiers de Nantes Métropole France",
+            "he":"מחוז נאנט, צרפת",
+            "it":"Distretto di Nantes, Francia",
+            "ja":"フランスのナント地区",
+            "kaa":"Nant okrugi, Fransiya",
+            "pl":"Dystrykt Nantes, Francja",
+            "pt":"Distrito de Nantes, França",
+            "ru":"Район Нант, Франция",
+            "sv":"Nantes distrikt, Frankrike",
+            "tr":"Nantes Bölgesi, Fransa",
+            "zh":"法国南特地区",
+            "en":"District of Nantes, France"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"BilelJegham, data.nantesmetropole.fr",
+         "imageUrl":"https://images.unsplash.com/photo-1676283898167-addc4238bee8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "bbox":[
+               -1.6418115,
+               47.1805856,
+               -1.4788443,
+               47.2958583
+            ],
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/frNantesMetropolisDistrict.geojson",
+            "type":"polygon",
+            "pathKey":"nom"
+         },
+         "id":"nantes"
+      },
+      {
+         "name":{
+            "ar":"المجتمعات الإسبانية المتمتعة بالحكم الذاتي",
+            "de":"Autonome Gemeinschaften Spaniens",
+            "es":"Comunidades autónomas de España",
+            "fr":"Communautés autonomes d'Espagne",
+            "it":"Comunità autonome della Spagna",
+            "ja":"スペインの自律型コミュニティ",
+            "kaa":"Ispaniya avtonom jámáátleri",
+            "pl":"Hiszpańskie autonomiczne społeczności",
+            "pt":"Comunidades autônomas da Espanha",
+            "ru":"Испанские автономные сообщества",
+            "sv":"Spanska autonoma samhällen",
+            "zh":"西班牙自治区",
+            "en":"Spain autonomous communities"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"Rukant",
+         "imageUrl":"https://images.unsplash.com/photo-1566232392379-afd9298e6a46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg3OTd9&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/spain_autonomous_communities.geojson",
+            "type":"polygon",
+            "pathKey":"NAME_1"
+         },
+         "id":"spain-autonomous-communities"
+      },
+      {
+         "name":{
+            "ar":"المقاطعات الإسبانية",
+            "de":"Spanische Provinzen",
+            "es":"Provincias de España",
+            "fr":"Provinces d'Espagne",
+            "it":"Province della Spagna",
+            "ja":"スペインの州",
+            "kaa":"Ispaniya wálayatları",
+            "pl":"Prowincje Hiszpanii",
+            "pt":"Províncias Espanholas",
+            "ru":"Испанские провинции",
+            "sv":"Spanska provinser",
+            "zh":"西班牙省",
+            "en":"Spain provinces"
+         },
+         "description":{
+            "en":""
+         },
+         "author":"Rukant",
+         "imageUrl":"https://images.unsplash.com/photo-1559564477-f837b990831a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjg3OTd9&auto=format&fit=crop&w=500&h=230",
+         "data":{
+            "urlArea":"https://raw.githubusercontent.com/GeoGuess/GeoGuess-Maps/main/public/geojson/areas/spain_provinces.geojson",
+            "type":"polygon",
+            "pathKey":"provincia"
+         },
+         "id":"spain-provinces"
+      }
+   ]
 }
