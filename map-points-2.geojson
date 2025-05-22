@@ -11,16 +11,13 @@
     {
       "type": "Feature",
       "properties": {
-      "title": "Abbey and Altenmünster of Lorsch",
+      "title": "Siauliai",
       "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
       "link": "https://whc.unesco.org/en/list/515"
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [
-      8.56858,
-      49.65369
-      ]
+      "coordinates": [55.81514049395521, 23.349530439568596]
       }
       },
       {
@@ -32,25 +29,19 @@
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [
-      0.86611,
-      46.56472
-      ]
+      "coordinates": [54.89657898225501, 24.095338074697114]
       }
       },
       {
       "type": "Feature",
       "properties": {
-      "title": "Abbey of St Gall",
+      "title": "Klaipeda",
       "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
       "link": "https://whc.unesco.org/en/list/268"
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [
-      9.37778,
-      47.42333
-      ]
+      "coordinates": [55.75111637036435, 21.18674663003297]
       }
       },
       {
@@ -63,8 +54,7 @@
       "geometry": {
       "type": "Point",
       "coordinates": [
-      29.66666667,
-      30.8358333333
+        55.518270338429424, 21.34052693736373
       ]
       }
       },
@@ -78,8 +68,7 @@
       "geometry": {
       "type": "Point",
       "coordinates": [
-      23.72618,
-      37.97087
+        55.32398839232425, 22.79308953479201
       ]
       }
       },
@@ -93,8 +82,7 @@
       "geometry": {
       "type": "Point",
       "coordinates": [
-      -103.7786111111,
-      20.8630555555
+        55.929897109876315, 22.432261883201544
       ]
       }
       },
@@ -108,8 +96,7 @@
       "geometry": {
       "type": "Point",
       "coordinates": [
-      78.021528,
-      27.179806
+        55.29766073334675, 24.106872363018887
       ]
       }
       },
@@ -123,8 +110,7 @@
       "geometry": {
       "type": "Point",
       "coordinates": [
-      16.48333,
-      56.325
+        55.24495296555919, 25.0320714696611
       ]
       }
       }
