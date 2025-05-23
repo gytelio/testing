@@ -11,87 +11,87 @@
     {
       "type": "Feature",
       "properties": {
-      "title": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
-      "description": "The monumental complex at Caserta, created by the Bourbon king Charles III in the mid-18th century to rival Versailles and the Royal Palace in Madrid, is exceptional for the way in which it brings together a magnificent palace with its park and gardens, as well as natural woodland, hunting lodges and a silk factory. It is an eloquent expression of the Enlightenment in material form, integrated into, rather than imposed on, its natural setting.",
-      "link": "https://whc.unesco.org/en/list/549"
+      "title": "Gauštvinio ežeras",
+      "description": "eimos abecele",
+      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/4094427d-d073-4e25-bac4-8aa00cd0c7e6.jpg"
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [21.18,55.75]
+      "coordinates": [23.152002,55.663232]
       }
       },
       {
       "type": "Feature",
       "properties": {
-      "title": "Vilnius Cathedral Square",
-      "description": "Construction of this palatine chapel, with its octagonal basilica and cupola, began c. 790–800 under the Emperor Charlemagne. Originally inspired by the churches of the Eastern part of the Holy Roman Empire, it was splendidly enlarged in the Middle Ages.",
-      "link": "https://whc.unesco.org/en/list/3"
+      "title": "Kaunas",
+      "description": "Kaunas > Vilnius",
+      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/87984c6e-3c52-4130-b0fa-c5258bfe9d1b.jpg"
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [25.287776, 54.686378]
+      "coordinates": [23.927915, 54.906333]
       }
       },
       {
       "type": "Feature",
       "properties": {
-      "title": "Kaunas Castle",
-      "description": "In the district of Port Louis, lies the 1,640 m2 site where the modern indentured labour diaspora began. In 1834, the British Government selected the island of Mauritius to be the first site for what it called ‘the great experiment’ in the use of ‘free’ labour to replace slaves. Between 1834 and 1920, almost half a million indentured labourers arrived from India at Aapravasi Ghat to work in the sugar plantations of Mauritius, or to be transferred to Reunion Island, Australia, southern and eastern Africa or the Caribbean. The buildings of Aapravasi Ghat are among the earliest explicit manifestations of what was to become a global economic system and one of the greatest migrations in history.",
-      "link": "https://whc.unesco.org/en/list/1227"
+      "title": "Pas vedecki latvijoj",
+      "description": "slova pacana",
+      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f5380f8c-2bdf-42d6-b78a-7850b0c5ee72.jpg"
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [23.881279, 54.902183]
+      "coordinates": [24.154111, 56.959003]
       }
       },
       {
       "type": "Feature",
       "properties": {
-      "title": "Klaipėda Theatre Square",
-      "description": "Located inside the Arctic Circle in the central part of West Greenland, the property contains the remains of 4,200 years of human history. It is a cultural landscape which bears witness to its creators' hunting of land and sea animals, seasonal migrations and a rich and well-preserved tangible and intangible cultural heritage linked to climate, navigation and medicine. The features of the property include large winter houses and evidence of caribou hunting, as well as archaeological sites from Paleo-Inuit and Inuit cultures. The cultural landscape includes seven key localities, from Nipisat in the west to Aasivissuit, near the ice cap in the east. It bears testimony to the resilience of the human cultures of the region and their traditions of seasonal migration.",
-      "link": "https://whc.unesco.org/en/list/1557"
+      "title": "Birzai, Sirvenos ez.",
+      "description": "planas B / jokūbas joins the gang",
+      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/9b1516b7-9da6-4a7d-96b4-8f58686f65af.jpg"
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [21.138038, 55.709845]
+      "coordinates": [24.763361, 56.222250]
       }
       },
       {
       "type": "Feature",
       "properties": {
-      "title": "Šiauliai Boulevard (Vilniaus gatvė)",
-      "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
-      "link": "https://whc.unesco.org/en/list/515"
+      "title": "Moletai",
+      "description": "Kurva sumastom kazka, keturi esam",
+      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/570cdb07-d718-4eb3-863c-83363352251b.jpg"
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [23.315934, 55.933349]
+      "coordinates": [25.530651, 55.062254]
       }
       },
       {
       "type": "Feature",
       "properties": {
-      "title": "Druskininkai Aqua Park Entrance",
-      "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
-      "link": "https://whc.unesco.org/en/list/230"
+      "title": "Split",
+      "description": "Tą vieną vakarą, kai klaunai gavo (juoko) dujų",
+      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/0a515996-41b7-4c0f-ab26-38296d9e0385.jpg"
       },
       "geometry": {
       "type": "Point",
-      "coordinates": [23.985982, 54.015994]
+      "coordinates": [16.401008, 43.513421]
       }
       },
       {
       "type": "Feature",
       "properties": {
-      "title": "Abbey of St Gall",
-      "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
-      "link": "https://whc.unesco.org/en/list/268"
+      "title": "Riga",
+      "description": "HUTA arba ta naktis, kai Koste nebemokejo kalbet",
+      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e23ff84c-c90b-47a2-92f4-e0900c3455dd.jpg"
       },
       "geometry": {
       "type": "Point",
       "coordinates": [
-      9.37778,
-      47.42333
+        24.111510,
+        56.946575
       ]
       }
       },
