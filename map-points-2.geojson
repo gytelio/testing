@@ -11,9 +11,9 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gauštvinio ežeras",
+        "title": "Gaustvinio ez",
         "description": "eimos abecele",
-        "link": ""
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/4094427d-d073-4e25-bac4-8aa00cd0c7e6.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +25,7 @@
       "properties": {
         "title": "Kaunas",
         "description": "Kaunas > Vilnius",
-        "link": ""
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/87984c6e-3c52-4130-b0fa-c5258bfe9d1b.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +37,7 @@
       "properties": {
         "title": "Pas vedecki latvijoj",
         "description": "slova pacana",
-        "link": ""
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f5380f8c-2bdf-42d6-b78a-7850b0c5ee72.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -49,7 +49,7 @@
       "properties": {
         "title": "Birzai, Sirvenos ez.",
         "description": "planas B / jokūbas joins the gang",
-        "link": ""
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/9b1516b7-9da6-4a7d-96b4-8f58686f65af.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -61,7 +61,7 @@
       "properties": {
         "title": "Moletai",
         "description": "Kurva sumastom kazka, keturi esam",
-        "link": ""
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/570cdb07-d718-4eb3-863c-83363352251b.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -72,8 +72,8 @@
       "type": "Feature",
       "properties": {
         "title": "Split",
-        "description": "Tą vieną vakarą, kai klaunai gavo (juoko) dujų",
-        "link": ""
+        "description": "Ta viena vakara, kai klaunai gavo (juoko) duju",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/0a515996-41b7-4c0f-ab26-38296d9e0385.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +85,7 @@
       "properties": {
         "title": "Riga",
         "description": "HUTA arba ta naktis, kai Koste nebemokejo kalbet",
-        "link": ""
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e23ff84c-c90b-47a2-92f4-e0900c3455dd.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +97,7 @@
       "properties": {
         "title": "Siauliai",
         "description": "tai uzdaryk mane teveli pirtyje",
-        "link": ""
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/b940cbe5-a382-421b-86e4-caf537b5debe.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -109,11 +109,23 @@
       "properties": {
         "title": "Nida",
         "description": "pyzda, koks smailus vanduo buva",
-        "link": ""
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f371b1bb-f097-4987-8af3-03ad50288ef3+(1).jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [20.991755, 55.314172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paplatele",
+        "description": "eimanto puota su ginu",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e368f8b9-f4d6-48fc-bdd4-5c6211cbfd18.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.88546, 56.05072]
       }
     }
   ]
