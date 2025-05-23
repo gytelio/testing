@@ -457,6 +457,456 @@
       14.13019
       ]
       }
-      }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Gaustvinio ez",
+          "description": "eimos abecele",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/4094427d-d073-4e25-bac4-8aa00cd0c7e6.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.152002,
+            55.663232
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Kaunas",
+          "description": "Kaunas  Vilnius",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/87984c6e-3c52-4130-b0fa-c5258bfe9d1b.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.927915,
+            54.906333
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Pas vedecki latvijoj",
+          "description": "slova pacana",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f5380f8c-2bdf-42d6-b78a-7850b0c5ee72.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.154111,
+            56.959003
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Birzai, Sirvenos ez.",
+          "description": "planas B  jokbas joins the gang",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/9b1516b7-9da6-4a7d-96b4-8f58686f65af.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.763361,
+            56.22225
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Moletai",
+          "description": "Kurva sumastom kazka, keturi esam",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/570cdb07-d718-4eb3-863c-83363352251b.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.530651,
+            55.062254
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Split",
+          "description": "Ta viena vakara, kai klaunai gavo (juoko) duju",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/0a515996-41b7-4c0f-ab26-38296d9e0385.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.401008,
+            43.513421
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Riga",
+          "description": "HUTA arba ta naktis, kai Koste nebemokejo kalbet",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e23ff84c-c90b-47a2-92f4-e0900c3455dd.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.11151,
+            56.946575
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Siauliai",
+          "description": "tai uzdaryk mane teveli pirtyje",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/b940cbe5-a382-421b-86e4-caf537b5debe.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.282891,
+            55.953898
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Nida",
+          "description": "pyzda, koks smailus vanduo buva",
+          "link": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            20.991755,
+            55.314172
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Paplatele",
+          "description": "eimanto puota su ginu",
+          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e368f8b9-f4d6-48fc-bdd4-5c6211cbfd18.jpg"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            21.88546,
+            56.05072
+          ]
+        }
+      },
+     {
+       "type": "Feature",
+       "properties": {
+         "title": "Siauliai",
+         "description": "tai uzdaryk mane teveli pirtyje",
+         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/b940cbe5-a382-421b-86e4-caf537b5debe.jpg"
+       },
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           23.282891,
+           55.953898
+         ]
+       }
+     },
+     {
+       "type": "Feature",
+       "properties": {
+         "title": "Nida",
+         "description": "pyzda, koks smailus vanduo buva",
+         "link": ""
+       },
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           20.991755,
+           55.314172
+         ]
+       }
+     },
+     {
+       "type": "Feature",
+       "properties": {
+         "title": "Paplatele",
+         "description": "eimanto puota su ginu",
+         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e368f8b9-f4d6-48fc-bdd4-5c6211cbfd18.jpg"
+       },
+       "geometry": {
+         "type": "Point",
+         "coordinates": [
+           21.88546,
+           56.05072
+         ]
+       }
+     },
+     {
+       "type": "Feature",
+       "properties": {
+       "title": "Aflaj Irrigation Systems of Oman",
+       "description": "The property includes five aflaj irrigation systems and is representative of some 3,000 such systems still in use in Oman. The origins of this system of irrigation may date back to AD 500, but archaeological evidence suggests that irrigation systems existed in this extremely arid area as early as 2500 BC. Using gravity, water is channelled from underground sources or springs to support agriculture and domestic use. The fair and effective management and sharing of water in villages and towns is still underpinned by mutual dependence and communal values and guided by astronomical observations. Numerous watchtowers built to defend the water systems form part of the site reflecting the historic dependence of communities on the aflaj system. Threatened by falling level of the underground water table, the aflaj represent an exceptionally well-preserved form of land use.",
+       "link": "https://whc.unesco.org/en/list/1207"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       57.5360555555,
+       22.9988888889
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Sacri Monti of Piedmont and Lombardy",
+       "description": "The nine Sacri Monti (Sacred Mountains) of northern Italy are groups of chapels and other architectural features created in the late 16th and 17th centuries and dedicated to different aspects of the Christian faith. In addition to their symbolic spiritual meaning, they are of great beauty by virtue of the skill with which they have been integrated into the surrounding natural landscape of hills, forests and lakes. They also house much important artistic material in the form of wall paintings and statuary.",
+       "link": "https://whc.unesco.org/en/list/1068"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       9.169555556,
+       45.97455556
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+       "description": "The monumental complex at Caserta, created by the Bourbon king Charles III in the mid-18th century to rival Versailles and the Royal Palace in Madrid, is exceptional for the way in which it brings together a magnificent palace with its park and gardens, as well as natural woodland, hunting lodges and a silk factory. It is an eloquent expression of the Enlightenment in material form, integrated into, rather than imposed on, its natural setting.",
+       "link": "https://whc.unesco.org/en/list/549"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       14.32639,
+       41.07333
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Aachen Cathedral ",
+       "description": "Construction of this palatine chapel, with its octagonal basilica and cupola, began c. 790–800 under the Emperor Charlemagne. Originally inspired by the churches of the Eastern part of the Holy Roman Empire, it was splendidly enlarged in the Middle Ages.",
+       "link": "https://whc.unesco.org/en/list/3"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       6.084444444,
+       50.77444444
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Aapravasi Ghat",
+       "description": "In the district of Port Louis, lies the 1,640 m2 site where the modern indentured labour diaspora began. In 1834, the British Government selected the island of Mauritius to be the first site for what it called ‘the great experiment’ in the use of ‘free’ labour to replace slaves. Between 1834 and 1920, almost half a million indentured labourers arrived from India at Aapravasi Ghat to work in the sugar plantations of Mauritius, or to be transferred to Reunion Island, Australia, southern and eastern Africa or the Caribbean. The buildings of Aapravasi Ghat are among the earliest explicit manifestations of what was to become a global economic system and one of the greatest migrations in history.",
+       "link": "https://whc.unesco.org/en/list/1227"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       57.5031666666,
+       -20.1586388889
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea",
+       "description": "Located inside the Arctic Circle in the central part of West Greenland, the property contains the remains of 4,200 years of human history. It is a cultural landscape which bears witness to its creators' hunting of land and sea animals, seasonal migrations and a rich and well-preserved tangible and intangible cultural heritage linked to climate, navigation and medicine. The features of the property include large winter houses and evidence of caribou hunting, as well as archaeological sites from Paleo-Inuit and Inuit cultures. The cultural landscape includes seven key localities, from Nipisat in the west to Aasivissuit, near the ice cap in the east. It bears testimony to the resilience of the human cultures of the region and their traditions of seasonal migration.",
+       "link": "https://whc.unesco.org/en/list/1557"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       -51.4332055556,
+       67.0639305556
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Abbey and Altenmünster of Lorsch",
+       "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
+       "link": "https://whc.unesco.org/en/list/515"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       8.56858,
+       49.65369
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Abbey Church of Saint-Savin sur Gartempe",
+       "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
+       "link": "https://whc.unesco.org/en/list/230"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       0.86611,
+       46.56472
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Abbey of St Gall",
+       "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
+       "link": "https://whc.unesco.org/en/list/268"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       9.37778,
+       47.42333
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Abu Mena",
+       "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
+       "link": "https://whc.unesco.org/en/list/90"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       29.66666667,
+       30.8358333333
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Acropolis, Athens",
+       "description": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization and form the greatest architectural and artistic complex bequeathed by Greek Antiquity to the world. In the second half of the fifth century bc, Athens, following the victory against the Persians and the establishment of democracy, took a leading position amongst the other city-states of the ancient world. In the age that followed, as thought and art flourished, an exceptional group of artists put into effect the ambitious plans of Athenian statesman Pericles and, under the inspired guidance of the sculptor Pheidias, transformed the rocky hill into a unique monument of thought and the arts. The most important monuments were built during that time: the Parthenon, built by Ictinus, the Erechtheon, the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike. ",
+       "link": "https://whc.unesco.org/en/list/404"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       23.72618,
+       37.97087
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Agave Landscape and Ancient Industrial Facilities of Tequila",
+       "description": "The 34,658 ha site, between the foothills of the Tequila Volcano and the deep valley of the Rio Grande River, is part of an expansive landscape of blue agave, shaped by the culture of the plant used since the 16th century to produce tequila spirit and for at least 2,000 years to make fermented drinks and cloth. Within the landscape are working distilleries reflecting the growth in the international consumption of tequila in the 19th and 20th centuries. Today, the agave culture is seen as part of national identity. The area encloses a living, working landscape of blue agave fields and the urban settlements of Tequila, Arenal, and Amatitan with large distilleries where the agave ‘pineapple' is fermented and distilled. The property is also a testimony to the Teuchitlan cultures which shaped the Tequila area from AD 200-900, notably through the creation of terraces for agriculture, housing, temples, ceremonial mounds and ball courts.",
+       "link": "https://whc.unesco.org/en/list/1209"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       -103.7786111111,
+       20.8630555555
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Agra Fort",
+       "description": "Near the gardens of the Taj Mahal stands the important 16th-century Mughal monument known as the Red Fort of Agra. This powerful fortress of red sandstone encompasses, within its 2.5-km-long enclosure walls, the imperial city of the Mughal rulers. It comprises many fairy-tale palaces, such as the Jahangir Palace and the Khas Mahal, built by Shah Jahan; audience halls, such as the Diwan-i-Khas; and two very beautiful mosques.",
+       "link": "https://whc.unesco.org/en/list/251"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       78.021528,
+       27.179806
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Agricultural Landscape of Southern Öland",
+       "description": "The southern part of the island of Öland in the Baltic Sea is dominated by a vast limestone plateau. Human beings have lived here for some five thousand years and adapted their way of life to the physical constraints of the island. As a consequence, the landscape is unique, with abundant evidence of continuous human settlement from prehistoric times to the present day.",
+       "link": "https://whc.unesco.org/en/list/968"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       16.48333,
+       56.325
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Air and Ténéré Natural Reserves",
+       "description": "This is the largest protected area in Africa, covering some 7.7 million ha, though the area considered a protected sanctuary constitutes only one-sixth of the total area. It includes the volcanic rock mass of the Aïr, a small Sahelian pocket, isolated as regards its climate and flora and fauna, and situated in the Saharan desert of Ténéré. The reserves boast an outstanding variety of landscapes, plant species and wild animals.",
+       "link": "https://whc.unesco.org/en/list/573"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       9,
+       18
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Ajanta Caves",
+       "description": "The first Buddhist cave monuments at Ajanta date from the 2nd and 1st centuries B.C. During the Gupta period (5th and 6th centuries A.D.), many more richly decorated caves were added to the original group. The paintings and sculptures of Ajanta, considered masterpieces of Buddhist religious art, have had a considerable artistic influence.",
+       "link": "https://whc.unesco.org/en/list/242"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       75.70025,
+       20.553111
+       ]
+       }
+       },
+       {
+       "type": "Feature",
+       "properties": {
+       "title": "Aksum",
+       "description": "The ruins of the ancient city of Aksum are found close to Ethiopia's northern border. They mark the location of the heart of ancient Ethiopia, when the Kingdom of Aksum was the most powerful state between the Eastern Roman Empire and Persia. The massive ruins, dating from between the 1st and the 13th century A.D., include monolithic obelisks, giant stelae, royal tombs and the ruins of ancient castles. Long after its political decline in the 10th century, Ethiopian emperors continued to be crowned in Aksum.",
+       "link": "https://whc.unesco.org/en/list/15"
+       },
+       "geometry": {
+       "type": "Point",
+       "coordinates": [
+       38.71861,
+       14.13019
+       ]
+       }
+       }
    ]
  }
