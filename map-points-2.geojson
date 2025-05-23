@@ -11,119 +11,86 @@
     {
       "type": "Feature",
       "properties": {
-      "title": "Gauštvinio ežeras",
-      "description": "eimos abecele",
-      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/4094427d-d073-4e25-bac4-8aa00cd0c7e6.jpg"
+        "title": "Gauštvinio ežeras",
+        "description": "eimos abecele",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/4094427d-d073-4e25-bac4-8aa00cd0c7e6.jpg"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [23.152002,55.663232]
+        "type": "Point",
+        "coordinates": [23.152002, 55.663232]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Kaunas",
-      "description": "Kaunas > Vilnius",
-      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/87984c6e-3c52-4130-b0fa-c5258bfe9d1b.jpg"
+        "title": "Kaunas",
+        "description": "Kaunas > Vilnius",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/87984c6e-3c52-4130-b0fa-c5258bfe9d1b.jpg"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [23.927915, 54.906333]
+        "type": "Point",
+        "coordinates": [23.927915, 54.906333]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Pas vedecki latvijoj",
-      "description": "slova pacana",
-      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f5380f8c-2bdf-42d6-b78a-7850b0c5ee72.jpg"
+        "title": "Pas vedecki latvijoj",
+        "description": "slova pacana",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f5380f8c-2bdf-42d6-b78a-7850b0c5ee72.jpg"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [24.154111, 56.959003]
+        "type": "Point",
+        "coordinates": [24.154111, 56.959003]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Birzai, Sirvenos ez.",
-      "description": "planas B / jokūbas joins the gang",
-      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/9b1516b7-9da6-4a7d-96b4-8f58686f65af.jpg"
+        "title": "Birzai, Sirvenos ez.",
+        "description": "planas B / jokūbas joins the gang",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/9b1516b7-9da6-4a7d-96b4-8f58686f65af.jpg"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [24.763361, 56.222250]
+        "type": "Point",
+        "coordinates": [24.763361, 56.22225]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Moletai",
-      "description": "Kurva sumastom kazka, keturi esam",
-      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/570cdb07-d718-4eb3-863c-83363352251b.jpg"
+        "title": "Moletai",
+        "description": "Kurva sumastom kazka, keturi esam",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/570cdb07-d718-4eb3-863c-83363352251b.jpg"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [25.530651, 55.062254]
+        "type": "Point",
+        "coordinates": [25.530651, 55.062254]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Split",
-      "description": "Tą vieną vakarą, kai klaunai gavo (juoko) dujų",
-      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/0a515996-41b7-4c0f-ab26-38296d9e0385.jpg"
+        "title": "Split",
+        "description": "Tą vieną vakarą, kai klaunai gavo (juoko) dujų",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/0a515996-41b7-4c0f-ab26-38296d9e0385.jpg"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [16.401008, 43.513421]
+        "type": "Point",
+        "coordinates": [16.401008, 43.513421]
       }
-      },
-      {
+    },
+    {
       "type": "Feature",
       "properties": {
-      "title": "Riga",
-      "description": "HUTA arba ta naktis, kai Koste nebemokejo kalbet",
-      "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e23ff84c-c90b-47a2-92f4-e0900c3455dd.jpg"
+        "title": "Riga",
+        "description": "HUTA arba ta naktis, kai Koste nebemokejo kalbet",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e23ff84c-c90b-47a2-92f4-e0900c3455dd.jpg"
       },
       "geometry": {
-      "type": "Point",
-      "coordinates": [
-        24.111510,
-        56.946575
-      ]
+        "type": "Point",
+        "coordinates": [24.111510, 56.946575]
       }
-      },
-      {
-      "type": "Feature",
-      "properties": {
-      "title": "Abu Mena",
-      "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
-      "link": "https://whc.unesco.org/en/list/90"
-      },
-      "geometry": {
-      "type": "Point",
-      "coordinates": [
-      29.66666667,
-      30.8358333333
-      ]
-      }
-      },
-      {
-      "type": "Feature",
-      "properties": {
-      "title": "Acropolis, Athens",
-      "description": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization and form the greatest architectural and artistic complex bequeathed by Greek Antiquity to the world. In the second half of the fifth century bc, Athens, following the victory against the Persians and the establishment of democracy, took a leading position amongst the other city-states of the ancient world. In the age that followed, as thought and art flourished, an exceptional group of artists put into effect the ambitious plans of Athenian statesman Pericles and, under the inspired guidance of the sculptor Pheidias, transformed the rocky hill into a unique monument of thought and the arts. The most important monuments were built during that time: the Parthenon, built by Ictinus, the Erechtheon, the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike. ",
-      "link": "https://whc.unesco.org/en/list/404"
-      },
-      "geometry": {
-      "type": "Point",
-      "coordinates": [
-      23.72618,
-      37.97087
-      ]
-      }
-      }
+    }
   ]
 }
