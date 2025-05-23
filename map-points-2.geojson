@@ -91,6 +91,30 @@
         "type": "Point",
         "coordinates": [24.111510, 56.946575]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Siauliai",
+        "description": "tai uzdaryk mane teveli pirtyje",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/b940cbe5-a382-421b-86e4-caf537b5debe.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.282891, 55.953898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nida",
+        "description": "pyzda, koks smailus vanduo buva",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f371b1bb-f097-4987-8af3-03ad50288ef3+(1).jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.991755, 55.314172]
+      }
     }
   ]
 }
