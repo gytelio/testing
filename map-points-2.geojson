@@ -11,77 +11,137 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Gaustvinio ez",
-        "description": "eimos abecele",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/4094427d-d073-4e25-bac4-8aa00cd0c7e6.jpg"
+      "title": "Sacri Monti of Piedmont and Lombardy",
+      "description": "The nine Sacri Monti (Sacred Mountains) of northern Italy are groups of chapels and other architectural features created in the late 16th and 17th centuries and dedicated to different aspects of the Christian faith. In addition to their symbolic spiritual meaning, they are of great beauty by virtue of the skill with which they have been integrated into the surrounding natural landscape of hills, forests and lakes. They also house much important artistic material in the form of wall paintings and statuary.",
+      "link": "https://whc.unesco.org/en/list/1068"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.152002,
-          55.663232
-        ]
+      "type": "Point",
+      "coordinates": [
+      9.169555556,
+      45.97455556
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Kaunas",
-        "description": "Kaunas  Vilnius",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/87984c6e-3c52-4130-b0fa-c5258bfe9d1b.jpg"
+      "title": "18th-Century Royal Palace at Caserta with the Park, the Aqueduct of Vanvitelli, and the San Leucio Complex",
+      "description": "The monumental complex at Caserta, created by the Bourbon king Charles III in the mid-18th century to rival Versailles and the Royal Palace in Madrid, is exceptional for the way in which it brings together a magnificent palace with its park and gardens, as well as natural woodland, hunting lodges and a silk factory. It is an eloquent expression of the Enlightenment in material form, integrated into, rather than imposed on, its natural setting.",
+      "link": "https://whc.unesco.org/en/list/549"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.927915,
-          54.906333
-        ]
+      "type": "Point",
+      "coordinates": [
+      14.32639,
+      41.07333
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Pas vedecki latvijoj",
-        "description": "slova pacana",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f5380f8c-2bdf-42d6-b78a-7850b0c5ee72.jpg"
+      "title": "Aachen Cathedral ",
+      "description": "Construction of this palatine chapel, with its octagonal basilica and cupola, began c. 790–800 under the Emperor Charlemagne. Originally inspired by the churches of the Eastern part of the Holy Roman Empire, it was splendidly enlarged in the Middle Ages.",
+      "link": "https://whc.unesco.org/en/list/3"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.154111,
-          56.959003
-        ]
+      "type": "Point",
+      "coordinates": [
+      6.084444444,
+      50.77444444
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Birzai, Sirvenos ez.",
-        "description": "planas B  jokbas joins the gang",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/9b1516b7-9da6-4a7d-96b4-8f58686f65af.jpg"
+      "title": "Aapravasi Ghat",
+      "description": "In the district of Port Louis, lies the 1,640 m2 site where the modern indentured labour diaspora began. In 1834, the British Government selected the island of Mauritius to be the first site for what it called ‘the great experiment’ in the use of ‘free’ labour to replace slaves. Between 1834 and 1920, almost half a million indentured labourers arrived from India at Aapravasi Ghat to work in the sugar plantations of Mauritius, or to be transferred to Reunion Island, Australia, southern and eastern Africa or the Caribbean. The buildings of Aapravasi Ghat are among the earliest explicit manifestations of what was to become a global economic system and one of the greatest migrations in history.",
+      "link": "https://whc.unesco.org/en/list/1227"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.763361,
-          56.22225
-        ]
+      "type": "Point",
+      "coordinates": [
+      57.5031666666,
+      -20.1586388889
+      ]
       }
-    },
-    {
+      },
+      {
       "type": "Feature",
       "properties": {
-        "title": "Moletai",
-        "description": "Kurva sumastom kazka, keturi esam",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/570cdb07-d718-4eb3-863c-83363352251b.jpg"
+      "title": "Aasivissuit – Nipisat. Inuit Hunting Ground between Ice and Sea",
+      "description": "Located inside the Arctic Circle in the central part of West Greenland, the property contains the remains of 4,200 years of human history. It is a cultural landscape which bears witness to its creators' hunting of land and sea animals, seasonal migrations and a rich and well-preserved tangible and intangible cultural heritage linked to climate, navigation and medicine. The features of the property include large winter houses and evidence of caribou hunting, as well as archaeological sites from Paleo-Inuit and Inuit cultures. The cultural landscape includes seven key localities, from Nipisat in the west to Aasivissuit, near the ice cap in the east. It bears testimony to the resilience of the human cultures of the region and their traditions of seasonal migration.",
+      "link": "https://whc.unesco.org/en/list/1557"
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.530651,
-          55.062254
-        ]
+      "type": "Point",
+      "coordinates": [
+      -51.4332055556,
+      67.0639305556
+      ]
       }
-    }
+      },
+      {
+      "type": "Feature",
+      "properties": {
+      "title": "Abbey and Altenmünster of Lorsch",
+      "description": "The abbey, together with its monumental entrance, the famous 'Torhall', are rare architectural vestiges of the Carolingian era. The sculptures and paintings from this period are still in remarkably good condition.",
+      "link": "https://whc.unesco.org/en/list/515"
+      },
+      "geometry": {
+      "type": "Point",
+      "coordinates": [
+      8.56858,
+      49.65369
+      ]
+      }
+      },
+      {
+      "type": "Feature",
+      "properties": {
+      "title": "Abbey Church of Saint-Savin sur Gartempe",
+      "description": "Known as the 'Romanesque Sistine Chapel', the Abbey-Church of Saint-Savin contains many beautiful 11th- and 12th-century murals which are still in a remarkable state of preservation.",
+      "link": "https://whc.unesco.org/en/list/230"
+      },
+      "geometry": {
+      "type": "Point",
+      "coordinates": [
+      0.86611,
+      46.56472
+      ]
+      }
+      },
+      {
+      "type": "Feature",
+      "properties": {
+      "title": "Abbey of St Gall",
+      "description": "The Convent of St Gall, a perfect example of a great Carolingian monastery, was, from the 8th century to its secularization in 1805, one of the most important in Europe. Its library is one of the richest and oldest in the world and contains precious manuscripts such as the earliest-known architectural plan drawn on parchment. From 1755 to 1768, the conventual area was rebuilt in Baroque style. The cathedral and the library are the main features of this remarkable architectural complex, reflecting 12 centuries of continuous activity.",
+      "link": "https://whc.unesco.org/en/list/268"
+      },
+      "geometry": {
+      "type": "Point",
+      "coordinates": [
+      9.37778,
+      47.42333
+      ]
+      }
+      },
+      {
+      "type": "Feature",
+      "properties": {
+      "title": "Abu Mena",
+      "description": "The church, baptistry, basilicas, public buildings, streets, monasteries, houses and workshops in this early Christian holy city were built over the tomb of the martyr Menas of Alexandria, who died in A.D. 296.",
+      "link": "https://whc.unesco.org/en/list/90"
+      },
+      "geometry": {
+      "type": "Point",
+      "coordinates": [
+      29.66666667,
+      30.8358333333
+      ]
+      }
+      }
   ]
 }
