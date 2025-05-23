@@ -17,19 +17,25 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [23.152002, 55.663232]
+        "coordinates": [
+          23.152002,
+          55.663232
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "title": "Kaunas",
-        "description": "Kaunas > Vilnius",
+        "description": "Kaunas  Vilnius",
         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/87984c6e-3c52-4130-b0fa-c5258bfe9d1b.jpg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [23.927915, 54.906333]
+        "coordinates": [
+          23.927915,
+          54.906333
+        ]
       }
     },
     {
@@ -41,19 +47,25 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [24.154111, 56.959003]
+        "coordinates": [
+          24.154111,
+          56.959003
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
         "title": "Birzai, Sirvenos ez.",
-        "description": "planas B / jokūbas joins the gang",
+        "description": "planas B  jokbas joins the gang",
         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/9b1516b7-9da6-4a7d-96b4-8f58686f65af.jpg"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [24.763361, 56.22225]
+        "coordinates": [
+          24.763361,
+          56.22225
+        ]
       }
     },
     {
@@ -65,7 +77,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [25.530651, 55.062254]
+        "coordinates": [
+          25.530651,
+          55.062254
+        ]
       }
     },
     {
@@ -77,7 +92,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [16.401008, 43.513421]
+        "coordinates": [
+          16.401008,
+          43.513421
+        ]
       }
     },
     {
@@ -89,7 +107,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [24.111510, 56.946575]
+        "coordinates": [
+          24.11151,
+          56.946575
+        ]
       }
     },
     {
@@ -101,7 +122,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [23.282891, 55.953898]
+        "coordinates": [
+          23.282891,
+          55.953898
+        ]
       }
     },
     {
@@ -113,7 +137,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [20.991755, 55.314172]
+        "coordinates": [
+          20.991755,
+          55.314172
+        ]
       }
     },
     {
@@ -125,7 +152,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [21.88546, 56.05072]
+        "coordinates": [
+          21.88546,
+          56.05072
+        ]
       }
     }
   ]
