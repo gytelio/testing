@@ -408,8 +408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.223353173751693,
-          55.59236710322513
+          23.189767683160014,
+          55.617908311893075
         ]
       }
     },
@@ -423,8 +423,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.88546,
-          56.05072
+          21.873118366309466,
+          56.031113729343275
         ]
       }
     },
@@ -438,8 +438,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.463372526036313,
-          55.20205399573292
+          25.40785366129931,
+          55.19525316728727
         ]
       }
     },
@@ -462,7 +462,7 @@
       "type": "Feature",
       "properties": {
         "title": "Siauliai, RocknRoll",
-        "description": "konkretus baudimas",
+        "description": "rokenrol",
         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/rocknroll+siauliai.jpeg"
       },
       "geometry": {
@@ -483,8 +483,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.279818979407445,
-          54.721355446749406
+          25.152094423050723,
+          54.75493447955052
         ]
       }
     },
