@@ -133,7 +133,7 @@
        "properties": {
          "title": "Nida",
          "description": "pyzda, koks smailus vanduo buva",
-         "link": ""
+         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/5ba5d1ba-f8a3-436a-8077-6814cfd7137d.jpg"
        },
        "geometry": {
          "type": "Point",
@@ -158,18 +158,93 @@
          ]
        }
      },
-    {
+     {
       "type": "Feature",
       "properties": {
-        "title": "Siauliai",
-        "description": "tai uzdaryk mane teveli pirtyje",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/b940cbe5-a382-421b-86e4-caf537b5debe.jpg"
+        "title": "Saloviskes",
+        "description": "naktis kai fizine branda pasieke zmones zaide slepyniu stuku stuku",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/ae4ab4af-39f8-4a0d-bed3-cce75bc68a79.jpg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.282891,
-          55.953898
+          24.706044,
+          54.529806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vilnius",
+        "description": "ganetinai homoseksualiai koncerte praleistas laikas su vyruciais",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/d6f29cc8-c09c-412d-a6e3-77832efa60f0.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.249873,
+          54.681843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Plateliu ez.",
+        "description": "tas vakaras, kai Familija laimėjo euroviziją arba lygiai prieš metus kaip Koste gimtadienį šventė",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/6c5500d4-8920-4fd7-b196-c91349eb5342.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.883951,
+          56.048380
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Palanga",
+        "description": "Kaip Ugnytė gimtadienį šventė, o draugai ieškojo šlykščiausio pasauly kokteilio recepto",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/d0df4837-5835-4696-b84a-e7b18f86951c.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.071112,
+          55.921244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riga, Arcada",
+        "description": "pisam i arcada",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/arcada.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.110387200226192,
+          56.94604957355298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riga, Arcada",
+        "description": "eimos barzda buvo pradaryta",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/eima+prasidare+barzda.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.107974079742135,
+          56.947938462129564
         ]
       }
     },
@@ -177,29 +252,164 @@
       "type": "Feature",
       "properties": {
         "title": "Nida",
-        "description": "pyzda, koks smailus vanduo buva",
-        "link": ""
+        "description": "cia zvejojom ane",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/fishing.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.991755,
-          55.314172
+          21.007768130746122,
+          55.30342641548297
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "title": "Paplatele",
-        "description": "eimanto puota su ginu",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e368f8b9-f4d6-48fc-bdd4-5c6211cbfd18.jpg"
+        "title": "Geruliai",
+        "description": "kai geruliai",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/geruliai+3.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.88546,
-          56.05072
+          22.392464399750292,
+          55.97803183286685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Geruliai",
+        "description": "kai geruliai",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/geruliai+3.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.392464399750292,
+          55.97803183286685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lietuvos Etnografijos muziejus",
+        "description": "gronkes",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/gronkes.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.201140627040857,
+          54.86640547277327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Juliaus Janonio gimnazija, Siauliai",
+        "description": "pize cia :DDDDDDDDDDDD",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/juliaus+janonio+gimnazija.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.313097054113523,
+          55.93053599103983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaunas",
+        "description": "Valge",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kaunas.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.894678082681317,
+          54.91134724830113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kaunas",
+        "description": "Valge",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kaunas.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.894678082681317,
+          54.91134724830113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Uzventis",
+        "description": "kebabiste prasuka viena, nes arbatos nepaliko",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kebabiste+prasuka+is+kojos+viena+uzventis.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.653032811772757,
+          55.782433040224014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nida",
+        "description": "kelnes pameciau",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kelnes+pameciau.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.003368726384142,
+          55.30668717172262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nida, Kupolas",
+        "description": "nebuva gerai",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kupolas.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99228,
+          55.32454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nida, Kupolas",
+        "description": "nebuva gerai",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kupolas.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99228,
+          55.32454
         ]
       }
     }
