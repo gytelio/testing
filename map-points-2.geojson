@@ -56,21 +56,6 @@
      {
        "type": "Feature",
        "properties": {
-         "title": "Pas vedecki latvijoj",
-         "description": "slova pacana",
-         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f5380f8c-2bdf-42d6-b78a-7850b0c5ee72.jpg"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           24.154111,
-           56.959003
-         ]
-       }
-     },
-     {
-       "type": "Feature",
-       "properties": {
          "title": "Birzai, Sirvenos ez.",
          "description": "planas B  jokbas joins the gang",
          "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/9b1516b7-9da6-4a7d-96b4-8f58686f65af.jpg"
@@ -258,8 +243,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.392464399750292,
-          55.97803183286685
+          22.395598,
+          56.002622
         ]
       }
     },
@@ -273,8 +258,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.201140627040857,
-          54.86640547277327
+          24.192841,
+          54.866460
         ]
       }
     },
@@ -290,21 +275,6 @@
         "coordinates": [
           23.313097054113523,
           55.93053599103983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Kaunas",
-        "description": "Valge",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kaunas.jpeg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.894678082681317,
-          54.91134724830113
         ]
       }
     },
@@ -356,21 +326,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Nida, Kupolas",
-        "description": "nebuva gerai",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kupolas.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.99228,
-          55.32454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Palanga, Tiltas",
         "description": "Opa",
         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/palanga+tiltas.jpeg"
@@ -378,8 +333,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.044414043827043,
-          55.92122864996142
+          21.053996,
+          55.919517
         ]
       }
     },
@@ -393,8 +348,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.189767683160014,
-          55.617908311893075
+          23.208514,
+          55.607862
         ]
       }
     },
@@ -408,8 +363,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          21.873118366309466,
-          56.031113729343275
+          21.815161,
+          56.042195
         ]
       }
     },
@@ -423,8 +378,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.107974079742135,
-          56.947938462129564
+          24.108900,
+          56.946468
         ]
       }
     },
@@ -438,23 +393,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.152094423050723,
-          54.75493447955052
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Paplatele",
-        "description": "kazkoks balaganas, kur vyko per kostes gimtadieni",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/panara.jpeg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          21.873118366309466,
-          56.031113729343275
+          25.265375,
+          54.673470
         ]
       }
     },
@@ -468,23 +408,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.40785366129931,
-          55.19525316728727
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Nida, Kupolas",
-        "description": "nebuva gerai",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kupolas.jpg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.99228,
-          55.32454
+          25.399119,
+          55.196639
         ]
       }
     },
@@ -528,8 +453,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.27359292147693,
-          54.69593217307732
+          25.273722,
+          54.695232
         ]
       }
     },
@@ -545,21 +470,6 @@
         "coordinates": [
           20.99228,
           55.32454
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vilnius",
-        "description": "pasilaizem",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/romantiska+naktis.jpeg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.152094423050723,
-          54.75493447955052
         ]
       }
     },
@@ -605,21 +515,6 @@
         "coordinates": [
           24.93417539353721,
           54.633788061959606
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Vilnius, Swedbank",
-        "description": "muziejui",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/vilnius+swedbank.jpeg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          25.27359292147693,
-          54.69593217307732
         ]
       }
     }
