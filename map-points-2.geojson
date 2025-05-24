@@ -24,6 +24,21 @@
        }
      },
      {
+      "type": "Feature",
+      "properties": {
+        "title": "Pas vedecki latvijoj",
+        "description": "slova pacana",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/f5380f8c-2bdf-42d6-b78a-7850b0c5ee72.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.154111,
+          56.959003
+        ]
+      }
+    },
+     {
        "type": "Feature",
        "properties": {
          "title": "Kaunas",
@@ -221,21 +236,6 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Riga, Arcada",
-        "description": "eimos barzda buvo pradaryta",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/eima+prasidare+barzda.jpeg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.107974079742135,
-          56.947938462129564
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "title": "Nida",
         "description": "cia zvejojom ane",
         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/fishing.jpeg"
@@ -245,21 +245,6 @@
         "coordinates": [
           21.007768130746122,
           55.30342641548297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Geruliai",
-        "description": "kai geruliai",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/geruliai+3.jpeg"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          22.392464399750292,
-          55.97803183286685
         ]
       }
     },
@@ -431,6 +416,51 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Riga",
+        "description": "eimos barzda buvo pradaryta",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/eima+prasidare+barzda.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.107974079742135,
+          56.947938462129564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vilnius",
+        "description": "pasilaizem",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/romantiska+naktis.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.152094423050723,
+          54.75493447955052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paplatele",
+        "description": "kazkoks balaganas, kur vyko per kostes gimtadieni",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/panara.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.873118366309466,
+          56.031113729343275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Moletai",
         "description": "pirtelei",
         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/pirtis+moletuose.png"
@@ -440,6 +470,21 @@
         "coordinates": [
           25.40785366129931,
           55.19525316728727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nida, Kupolas",
+        "description": "nebuva gerai",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kupolas.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99228,
+          55.32454
         ]
       }
     },
@@ -470,6 +515,36 @@
         "coordinates": [
           23.317336835070474,
           55.930114321498635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vilnius, Swedbank",
+        "description": "muziejui",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/vilnius+swedbank.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27359292147693,
+          54.69593217307732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Nida, Kupolas",
+        "description": "nebuva gerai",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kupolas.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99228,
+          55.32454
         ]
       }
     },
