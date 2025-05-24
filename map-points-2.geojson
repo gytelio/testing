@@ -144,21 +144,6 @@
        }
      },
      {
-       "type": "Feature",
-       "properties": {
-         "title": "Paplatele",
-         "description": "eimanto puota su ginu",
-         "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e368f8b9-f4d6-48fc-bdd4-5c6211cbfd18.jpg"
-       },
-       "geometry": {
-         "type": "Point",
-         "coordinates": [
-           21.88546,
-           56.05072
-         ]
-       }
-     },
-     {
       "type": "Feature",
       "properties": {
         "title": "Saloviskes",
@@ -401,15 +386,165 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Nida, Kupolas",
-        "description": "nebuva gerai",
-        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/fotkes/kupolas.jpg"
+        "title": "Palanga, Tiltas",
+        "description": "Opa",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/palanga+tiltas.jpeg"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.99228,
-          55.32454
+          21.044414043827043,
+          55.92122864996142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Tytuvenai",
+        "description": "eimanto puota su ginu",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/e368f8b9-f4d6-48fc-bdd4-5c6211cbfd18.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.223353173751693,
+          55.59236710322513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paplatele",
+        "description": "kazkoks balaganas, kur vyko per kostes gimtadieni",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/panara.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.88546,
+          56.05072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moletai",
+        "description": "pirtelei",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/pirtis+moletuose.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.463372526036313,
+          55.20205399573292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Riga, Centrs",
+        "description": "konkretus baudimas",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/Riga+baudimas.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.07099109037275,
+          56.968125064503106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Siauliai, RocknRoll",
+        "description": "konkretus baudimas",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/rocknroll+siauliai.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.317336835070474,
+          55.930114321498635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vilnius",
+        "description": "pasilaizem",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/romantiska+naktis.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.279818979407445,
+          54.721355446749406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Siauliai, Happy Mosquito",
+        "description": "sad mosquito, eimos neileida",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/sad+mosquito.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.317558235070514,
+          55.93002871109059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sventoji",
+        "description": "ble wtf",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/sventoji.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.081090012136478,
+          56.02967266091667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Trakai",
+        "description": "trakai buvo apversti aukstyn kojom",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/trakai+aukstyn+kojom.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93417539353721,
+          54.633788061959606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vilnius, Swedbank",
+        "description": "muziejui",
+        "link": "https://geoguessr-8509.s3.us-east-1.amazonaws.com/vilnius+swedbank.jpeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.27359292147693,
+          54.69593217307732
         ]
       }
     }
